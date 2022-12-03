@@ -1,0 +1,28 @@
+1-Apagar os arquivos:
+	.eslintrc.js
+	.prettierrc.js
+
+2-vamos instalar as seguintes dependências:
+
+npm install @react-native-picker/picker
+npm install @react-native-community/slider --save
+
+npm install @react-navigation/native@^5.x
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install @react-navigation/stack@^5.x
+
+----------------------------------------------------
+
+npm install @react-navigation/native@^5.x
+
+npm add react-native-reanimated@next react-native-gesture-handler
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install @react-navigation/stack@^5.x
+
+npm install @react-navigation/drawer@^5.x
+
+

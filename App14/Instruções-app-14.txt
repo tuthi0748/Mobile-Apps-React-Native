@@ -1,0 +1,16 @@
+1-Apagar os arquivos:
+	.eslintrc.js
+	.prettierrc.js
+
+2-vamos instalar as seguintes dependências:
+
+npm install @react-native-async-storage/async-storage
+
+
+--------------------------------------------------------------------
+
+A corrigir - Não consegui alterar o tamanho pelo Switch, utilizando o
+fontWeight no lugar, que funcionou.
+
+
+

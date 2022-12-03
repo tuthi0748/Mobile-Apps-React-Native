@@ -1,0 +1,26 @@
+1-vamos instalar as seguintes dependências:
+
+npm install axios --save
+npm install react-native-vector-icons
+
+2-Inserir o trecho destacado entre as linhas(apenas para finalidade de destaque), antes da linha contendo o seguinte: (apply from: "../../node_modules/react-native-vector-icons/fonts.gradle") - no local ("android/app/build.gradle"):
+
+(Source: https://github.com/oblador/react-native-vector-icons#android)
+
+<---------------------------------------
+
+project.ext.vectoricons = [
+    iconFontNames: [ 'MaterialIcons.ttf', 'EvilIcons.ttf', 'AntDesign.ttf', 'FontAwesome.ttf', 'Feather.ttf', 'MaterialCommunityIcons' ] // Name of the font files you want to copy
+]
+
+-------------------------------------->
+
+
+
+
+3-Criar a seguinte estrutura de pastas e os seguintes arquivos:
+src\services\api.js
+
+
+
+

@@ -1,0 +1,12 @@
+1-vamos instalar as seguintes dependências:
+
+npm install axios --save
+npm install @react-native-picker/picker
+
+
+2-Criar a seguinte estrutura de pastas e os seguintes arquivos:
+src\services\api.js
+
+
+
+

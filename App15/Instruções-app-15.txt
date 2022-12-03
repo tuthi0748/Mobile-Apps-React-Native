@@ -1,0 +1,8 @@
+1-vamos instalar as seguintes dependências:
+
+npm install --save react-native-sqlite-storage
+
+
+
+
+

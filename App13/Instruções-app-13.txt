@@ -1,0 +1,17 @@
+1-Apagar os arquivos:
+	.eslintrc.js
+	.prettierrc.js
+
+2-vamos instalar as seguintes dependências:
+
+npm install @react-navigation/native@^5.x
+
+npm install @react-navigation/bottom-tabs@^5.x
+
+npm install --save react-native-vector-icons
+
+npx react-native link react-native-vector-icons
+
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
